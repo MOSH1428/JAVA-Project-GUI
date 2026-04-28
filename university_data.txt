@@ -1,0 +1,6 @@
+[STUDENTS]
+Moahmed
+[DOCTORS]
+Ahmad
+[FACULTIES]
+AI
